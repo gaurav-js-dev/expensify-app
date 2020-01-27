@@ -1,7 +1,15 @@
-# Git Commands
+# Expensify-App
+A react web app to manage and track down expenses built using React, Redux, Jest, Enzyme, Firebase, Heroku
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+Live Demo https://secret-sierra-54801.herokuapp.com/
+
+#### Technologies Used
+React
+Redux
+React Routing
+Firebase Realtime Database
+Firebase Authentication
+Testing - Jest, Enzyme
+HEROKU CLI
+WebPack & Babel
+CSS & SCSS
