@@ -1,0 +1,14 @@
+/* If screen size is more than 45rem wide, set the display of <div> to none */
+.show-for-mobile {
+    @media (min-width: $desktop-breakpoint) {
+        display: none;
+    }
+}
+
+/* If screen size is 45rem wide, or less, set the display of <div> to none */
+
+.show-for-desktop {
+    @media (max-width: $desktop-breakpoint - 0.1rem) {
+        display: none;
+    }
+}
